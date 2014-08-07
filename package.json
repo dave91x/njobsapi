@@ -1,0 +1,9 @@
+{
+  "name": "jobs-api",
+  "main": "server.coffee",
+  "dependencies": {
+    "express": "*",
+    "mongoose": "*",
+    "body-parser": "*"
+  }
+}
