@@ -1,6 +1,6 @@
 Basic node.js app with RESTful API
 ==================================
 
-Mockup of jobs listing service used for this scenario.
+Mockup of a jobs listing service used for this scenario.
 
 
