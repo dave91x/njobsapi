@@ -1,0 +1,6 @@
+// config/app_config.js
+
+module.exports = {
+  'url': 'mongodb://<put your mongodb url here>'
+};
+
